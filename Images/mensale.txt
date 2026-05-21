@@ -1,1 +1,1 @@
-share.okardcare.com
+192.168.28.128:5567
